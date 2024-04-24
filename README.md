@@ -8,4 +8,4 @@ The DLL files that are in the folder are needed when the program is turned on on
 
 Program ignores .exe and .cpp files.
 
-Example: program.exe example1@mail.com example2@mail.com
+Example: ```program.exe example1@mail.com example2@mail.com```
